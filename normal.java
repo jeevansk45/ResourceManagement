@@ -11,3 +11,4 @@ public class WalletApiApplication {
 		System.out.println("new")
 	}
 }
+System.out.println("new")
